@@ -1,3 +1,4 @@
+- 此版本废弃，不再维护，新模板[hithesis](https://github.com/dustincys/hithesis)括本硕博，对老版本的缺陷进行了彻底的修改
 PlutoThesis
 ===========
 
